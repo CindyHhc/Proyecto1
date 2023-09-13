@@ -1,0 +1,25 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "Landing page for a online fragrance shop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CindyHhc/Proyecto1.git"
+  },
+  "keywords": [
+    "Landing",
+    "page",
+    "fragrance"
+  ],
+  "author": "Cindy Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CindyHhc/Proyecto1/issues"
+  },
+  "homepage": "https://github.com/CindyHhc/Proyecto1#readme"
+}
