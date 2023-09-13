@@ -1,5 +1,5 @@
 # Proyecto1
-This repository contains my first landing page
+Taller GitHub Git
 
 ## Inicializar el proyecto
 
